@@ -1,0 +1,11 @@
+{
+  "arch": "resnet18",
+  "trained_on": "mnist",
+  "eval_on": "mnist",
+  "train_loss": 0.0006748912770918751,
+  "train_acc": 0.9997962962962963,
+  "val_loss": 0.02137445810258699,
+  "val_acc": 0.9963333333333333,
+  "test_loss": 0.021686355402112802,
+  "test_acc": 0.9939
+}

@@ -1,0 +1,7 @@
+{
+  "arch": "densenet121",
+  "trained_on": "svhn",
+  "eval_on": "mnist",
+  "test_loss": 24.6130873046875,
+  "test_acc": 0.1242
+}

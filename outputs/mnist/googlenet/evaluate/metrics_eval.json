@@ -1,0 +1,11 @@
+{
+  "arch": "googlenet",
+  "trained_on": "mnist",
+  "eval_on": "mnist",
+  "train_loss": 0.001027587110853616,
+  "train_acc": 0.9997222222222222,
+  "val_loss": 0.017891982810756112,
+  "val_acc": 0.9963333333333333,
+  "test_loss": 0.01926960409893145,
+  "test_acc": 0.9948
+}

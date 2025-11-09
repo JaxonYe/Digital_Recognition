@@ -1,0 +1,7 @@
+{
+  "arch": "resnet18",
+  "trained_on": "mnist",
+  "eval_on": "svhn",
+  "test_loss": 11.315074968132858,
+  "test_acc": 0.14443761524277812
+}

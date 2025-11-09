@@ -1,0 +1,11 @@
+{
+  "arch": "googlenet",
+  "trained_on": "svhn",
+  "eval_on": "svhn",
+  "train_loss": 0.002177150162626705,
+  "train_acc": 0.999514651459079,
+  "val_loss": 0.3556505163680164,
+  "val_acc": 0.9515358361774744,
+  "test_loss": 0.3266868451913589,
+  "test_acc": 0.9524431468961279
+}

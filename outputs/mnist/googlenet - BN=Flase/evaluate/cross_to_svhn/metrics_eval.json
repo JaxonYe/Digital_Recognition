@@ -1,0 +1,7 @@
+{
+  "arch": "googlenet",
+  "trained_on": "mnist",
+  "eval_on": "svhn",
+  "test_loss": 5.548269270678276,
+  "test_acc": 0.242739704978488
+}

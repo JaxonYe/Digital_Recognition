@@ -1,0 +1,11 @@
+{
+  "arch": "vgg16",
+  "trained_on": "mnist",
+  "eval_on": "mnist",
+  "train_loss": 0.002576082519132325,
+  "train_acc": 0.9992407407407408,
+  "val_loss": 0.06344421531050466,
+  "val_acc": 0.9945,
+  "test_loss": 0.05856426880446238,
+  "test_acc": 0.9944
+}

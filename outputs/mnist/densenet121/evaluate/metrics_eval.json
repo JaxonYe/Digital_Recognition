@@ -1,0 +1,11 @@
+{
+  "arch": "densenet121",
+  "trained_on": "mnist",
+  "eval_on": "mnist",
+  "train_loss": 0.0030639070213720615,
+  "train_acc": 0.9991481481481481,
+  "val_loss": 0.023047036684273433,
+  "val_acc": 0.9961666666666666,
+  "test_loss": 0.02106619673380046,
+  "test_acc": 0.995
+}

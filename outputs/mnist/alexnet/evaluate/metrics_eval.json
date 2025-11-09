@@ -1,0 +1,11 @@
+{
+  "arch": "alexnet",
+  "trained_on": "mnist",
+  "eval_on": "mnist",
+  "train_loss": 0.006491885248209453,
+  "train_acc": 0.9980185185185185,
+  "val_loss": 0.030488882172542312,
+  "val_acc": 0.9936666666666667,
+  "test_loss": 0.02894724260809162,
+  "test_acc": 0.9933
+}

@@ -1,0 +1,7 @@
+{
+  "arch": "vgg16",
+  "trained_on": "mnist",
+  "eval_on": "svhn",
+  "test_loss": 2.291789943481708,
+  "test_acc": 0.1958743085433313
+}

@@ -1,0 +1,7 @@
+{
+  "arch": "lenet",
+  "trained_on": "svhn",
+  "eval_on": "mnist",
+  "test_loss": 1.8646323692321778,
+  "test_acc": 0.5266
+}

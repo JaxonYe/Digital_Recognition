@@ -1,0 +1,7 @@
+{
+  "arch": "alexnet",
+  "trained_on": "mnist",
+  "eval_on": "svhn",
+  "test_loss": 4.661085508612672,
+  "test_acc": 0.25487861094038106
+}
